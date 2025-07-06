@@ -1,0 +1,11 @@
+node_modules/
+coverage
+.npm
+mochawesome-report
+cypress/downloads/
+env
+/cypress/videos
+/cypress/screenshots
+/cypress/report
+/allure-report
+/allure-results
